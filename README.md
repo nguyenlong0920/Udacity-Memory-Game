@@ -12,7 +12,7 @@
 
 ## General 
 
-Udacity Front-End Developer Nanodegree Second Project
+* Udacity Front-End Developer Nanodegree Second Project
 * Live preview: https://nguyenlong0920.github.io/Udacity-Memory-Game/
 
 ## How To Play
